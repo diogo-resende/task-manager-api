@@ -108,7 +108,7 @@ The API uses a **standard response format**.
   "timestamp": "2026-03-11T12:00:00",
   "status": 200,
   "message": "Users retrieved successfully",
-  "data": [...]
+  "data": []
 }
 ```
 
@@ -126,9 +126,9 @@ http://localhost:8080/swagger-ui/index.html
 
 Example interface:
 
-*(add a screenshot here)*
+*![Swagger UI](docs/swagger-ui.png)*
 
-![Swagger UI](docs/swagger-example.png)
+
 
 ---
 
